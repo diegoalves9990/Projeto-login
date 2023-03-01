@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section.about{
+    background-image: url(../photos/pexels-cottonbro-studio-3585074.jpg);
+    min-height: 100vh;
+    background-size: cover;
+    background-position: right;
+}
